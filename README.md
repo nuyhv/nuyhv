@@ -1,4 +1,4 @@
-<header><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3c4f6f&fontColor=fff&height=250&section=header&text=nuyhv's%20github&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20or%20Github%20!&descAlignY=60&descAlign=67" /></header>
+<header><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=3c4f6f&fontColor=fff&height=250&section=header&text=nuyhv's%20github&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Welcome%20to%20my%20Github%20!&descAlignY=60&descAlign=67" /></header>
 
 ## Stacks 
 ### Frontend
