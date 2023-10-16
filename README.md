@@ -34,7 +34,7 @@
 
 ##
 <div>
-  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=nuyhv&show_icons=true&theme=tokyonight">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=nuyhv&count_private=true&show_icons=true&theme=tokyonight">
   <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nuyhv&layout=compact&theme=tokyonight">
 </div>
     
